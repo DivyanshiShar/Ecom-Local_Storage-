@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(245, 224, 237, 0.735);
+}
+
+.container {
+    background: linear-gradient(90deg, rgba(52, 82, 232, 0.6722338593640581) 18%, rgba(52, 109, 214, 1) 45%, rgba(35, 221, 233, 1) 75%);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: rgba(52, 82, 232, 0.8);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: rgba(52, 82, 232, 1);
+}

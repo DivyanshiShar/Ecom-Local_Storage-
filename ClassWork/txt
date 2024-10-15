@@ -1,0 +1,21 @@
+//create an object
+/*
+1) "data" : [
+{
+'name':
+'category':
+'success': 
+},
+{
+},
+{
+}...
+]
+
+
+2) using xml, fetch json data
+input box to seach the name and a search button
+ create table having name and success status
+ if success is true background color of table row will be true
+ and if success is false background color of table row will be red
+*/
